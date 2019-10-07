@@ -1,5 +1,7 @@
 ![Image name](https://ibb.co/N6rbQvC)
 
+[![Image name](https://ibb.co/N6rbQvC))](http://www.host.com/link.html)
+
 # Steps 
 
 **STEP 1: Create database and table with the following script**
