@@ -31,4 +31,6 @@ GO
 
 **DestinationPath** : directory where the file is to be saved
 
+Format by  DestinationPath is by example c:\\\\datosdescargados\\ with double slash \\
+
 ****STEP 3: Run Project **Poc.DownloadAndSaveInDatabase**
