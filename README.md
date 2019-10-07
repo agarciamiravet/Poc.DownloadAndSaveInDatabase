@@ -1,3 +1,5 @@
+![Image name](https://ibb.co/N6rbQvC)
+
 # Steps 
 
 **STEP 1: Create database and table with the following script**
