@@ -1,5 +1,3 @@
-![alt text](DiagramaAplicacion.png "Diagrama")
-
 # Steps 
 
 **STEP 1: Create database and table with the following script**
