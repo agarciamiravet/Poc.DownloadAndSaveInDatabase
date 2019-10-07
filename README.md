@@ -24,8 +24,11 @@ GO
 ****STEP 2:** Modify few values in **appsettings.json** file:
 
 **ConnectionString :** SQL Server connection string
+
 **BlobStorageFileUrl**: File url of blob storage
+
 **SourceFile**: File where download blbo storage file
+
 **DestinationPath** : directory where the file is to be saved
 
 STEP 3: Run Project **Poc.DownloadAndSaveInDatabase**
