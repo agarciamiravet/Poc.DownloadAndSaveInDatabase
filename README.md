@@ -1,6 +1,4 @@
-![Image name](https://ibb.co/N6rbQvC)
-
-[![Image name](https://ibb.co/N6rbQvC))](http://www.host.com/link.html)
+![alt text](DiagramaAplicacion.png "Diagrama")
 
 # Steps 
 
