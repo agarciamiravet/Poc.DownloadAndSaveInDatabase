@@ -12,9 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentat
 		DatabaseScript.sql = DatabaseScript.sql
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poc.DownloadAndSaveInDatabase.Mappings", "Poc.DownloadAndSaveInDatabase.Mappings\Poc.DownloadAndSaveInDatabase.Mappings.csproj", "{FFC5CF4E-A8B4-4452-9286-C1F19FB3D188}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poc.DownloadAndSaveInDatabase.Entities", "Poc.DownloadAndSaveInDatabase.Entities\Poc.DownloadAndSaveInDatabase.Entities.csproj", "{228C5992-CD00-49BA-A03A-315A5AEDA796}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poc.DownloadAndSaveInDatabase.Entities", "Poc.DownloadAndSaveInDatabase.Entities\Poc.DownloadAndSaveInDatabase.Entities.csproj", "{228C5992-CD00-49BA-A03A-315A5AEDA796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,10 +28,6 @@ Global
 		{3E7FEE70-6D70-446B-B9D7-B0C98EB42496}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E7FEE70-6D70-446B-B9D7-B0C98EB42496}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E7FEE70-6D70-446B-B9D7-B0C98EB42496}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FFC5CF4E-A8B4-4452-9286-C1F19FB3D188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FFC5CF4E-A8B4-4452-9286-C1F19FB3D188}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FFC5CF4E-A8B4-4452-9286-C1F19FB3D188}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FFC5CF4E-A8B4-4452-9286-C1F19FB3D188}.Release|Any CPU.Build.0 = Release|Any CPU
 		{228C5992-CD00-49BA-A03A-315A5AEDA796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{228C5992-CD00-49BA-A03A-315A5AEDA796}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228C5992-CD00-49BA-A03A-315A5AEDA796}.Release|Any CPU.ActiveCfg = Release|Any CPU
